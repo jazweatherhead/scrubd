@@ -1,4 +1,4 @@
-# scrubd - make Scribd suck less
+# scrubd
 
 scrubd improves the Scribd web interface by hiding extraneous bs whilst you read.
 
