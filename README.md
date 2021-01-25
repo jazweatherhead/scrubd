@@ -1,9 +1,7 @@
-# scrubd
-
-## make Scribd suck less
+# scrubd - make Scribd suck less
 
 scrubd improves the Scribd web interface by hiding extraneous bs whilst you read.
 
-### Installation
+## Installation
 
 It's a userscript. Install it into greasemonkey / tampermonkey as usual.
